@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Guidelines
 
 When contributing to any repository, please first discuss the change you wish to make via issues or discussions with the owners of the repository before making a change. Before you make your changes, check to see if an issue exists already for the change you want to make. 
 
